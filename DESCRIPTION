@@ -1,0 +1,15 @@
+Package: FMDSeroSurv
+Type: Package
+Title: Estimation of DIVA positive Rates for FMD Virus Sero-Surveillance
+Version: 0.1.0
+Author: Samarendra Das
+Maintainer: Samarendra Das <samarendra.das@icar.gov.in>
+Description: Provides state and national level estimates of Differentiating Infected from Vaccinated Animals (DIVA) along with other measures.
+    Also, predicts the state and national level DIVA positive animal numbers.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 4.0.0)
+Imports: 
+    stats
+RoxygenNote: 7.2.1
